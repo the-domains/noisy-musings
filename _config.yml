@@ -6,9 +6,9 @@ color:
   saturation: 0.436416941229254
   rhythmicContrast: 0.778302448336035
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: noisy musings

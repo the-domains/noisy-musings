@@ -1,0 +1,14 @@
+layout_spectrum: 0.9449076468590647
+typography_spectrum: 0.7761344583705068
+color:
+  brandStrength: 0.7584844883531332
+  lightness: 0.6779947187751532
+  saturation: 0.436416941229254
+  rhythmicContrast: 0.778302448336035
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: noisy musings
